@@ -2,7 +2,7 @@
 layout: post
 title: Get It Done
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_pressplay%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

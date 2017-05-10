@@ -2,7 +2,7 @@
 layout: post
 title: UI Mockups and GIFs
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_animatedui%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

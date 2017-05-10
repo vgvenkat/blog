@@ -2,7 +2,7 @@
 layout: post
 title: Everybody is a Designer
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_everybodydesigner%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

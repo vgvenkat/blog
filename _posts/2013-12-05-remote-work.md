@@ -2,7 +2,7 @@
 layout: post
 title: Remote Work
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_workspace01%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: How I Store My Photos
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

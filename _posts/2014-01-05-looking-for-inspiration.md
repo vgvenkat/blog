@@ -2,7 +2,7 @@
 layout: post
 title: Looking for Inspiration
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_inspiration%402x.jpg
-published: true
+published: false
 category: blog
 ---
 

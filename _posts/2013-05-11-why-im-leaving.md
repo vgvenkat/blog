@@ -2,7 +2,7 @@
 layout: post
 title: Why I’m Leaving
 bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_whyleaving%402x.jpg
-published: true
+published: false
 category: blog
 ---
 
