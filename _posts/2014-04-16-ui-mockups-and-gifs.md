@@ -1,9 +1,11 @@
 ---
-layout: post
 title: UI Mockups and GIFs
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_animatedui%402x.jpg
+date: 2014-04-16 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_animatedui%402x.jpg
 ---
 
 I would say that animated mockups is the new flat design. Beside it being trendy it is also good to see a lot of people using animation skills in to better communicate visual ideas. But keep in mind that animation does not replace interactive mockups and user testing. These should always be your goals to achieve a great user experience.

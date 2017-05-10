@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Good Vibrations
-bg: /public/images/posts/cat.jpg
+date: 2012-12-15 00:00:00 Z
 published: false
+layout: post
+bg: "/public/images/posts/cat.jpg"
 ---
 
 This is not about one of the [greatest songs of all times](http://en.wikipedia.org/wiki/Good_Vibrations) or a [SF sex shop](http://en.wikipedia.org/wiki/Good_Vibrations_(sex_shop)). This is about how working with people on the same vibration should make your daily job better and even contribute to the success of your company.

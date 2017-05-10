@@ -1,9 +1,11 @@
 ---
-layout: post
-title: (not) King's Speech
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_notkindspeach%402x.jpg
+title: "(not) King's Speech"
+date: 2012-06-11 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_notkindspeach%402x.jpg
 ---
 
 A while ago I went to <a href="http://startupweekend.org/" target="_blank">Startup Weekend</a> Rio and, as a shy guy, I was embarrassed to do a public pitch. 60 seconds to "sell" an idea and motivate people join and build something.

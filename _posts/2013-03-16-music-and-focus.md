@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Music and Focus
-bg: /public/images/posts/cat.jpg
+date: 2013-03-16 00:00:00 Z
 published: false
+layout: post
+bg: "/public/images/posts/cat.jpg"
 ---
 
 You probably heard about Pomodoro Technique, a simple process to help you improve your productivity and focus. If not [take a look](http://www.pomodorotechnique.com/download/pdf/ThePomodoroTechnique_v1-3.pdf) at the PDF, it's free. With this said I wanna talk here about how I mix concepts of Pomodoro with music and how it works for me.
