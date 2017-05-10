@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Remote Work
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_workspace01%402x.jpg
+date: 2013-12-05 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_workspace01%402x.jpg
 ---
 
 I’ve been working remotely for 6 months and in this time I’ve been collecting some notes to share about pros and cons of this experience so far.

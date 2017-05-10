@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Peixe Urbano
-bg: /public/images/posts/brunomarinho_peixeurbano@2x.jpg
-published: true
+date: 2014-01-04 00:00:00 Z
+layout: post
+bg: "/public/images/posts/brunomarinho_peixeurbano@2x.jpg"
 hidden: true
 ---
 

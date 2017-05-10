@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Get It Done
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_pressplay%402x.jpg
+date: 2013-11-12 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_pressplay%402x.jpg
 ---
 
 This gets even worse if you work in a big company when you have colleagues or teammates arriving to your desk to ask something or sometimes just to do some easy talk. Some studies talk about 20-25 minutes to recover the entire focus. Multiply this to the number of interruptions and you can see that sometimes you just lost you work day.

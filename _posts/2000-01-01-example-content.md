@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Example content
-bg: /public/images/posts/cat.jpg
+date: 2000-01-01 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: "/public/images/posts/cat.jpg"
 ---
-
-
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

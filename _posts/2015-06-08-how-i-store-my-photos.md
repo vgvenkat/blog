@@ -1,11 +1,12 @@
 ---
-layout: post
 title: How I Store My Photos
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage%402x.jpg
+date: 2015-06-08 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_storage%402x.jpg
 ---
-
 
 I'm going to start by saying that I'm not a professional photographer and so having redundant backups and other crazy external hard drives doesn’t make any sense to me at this stage. What I will describe here is my personal workflow.
 

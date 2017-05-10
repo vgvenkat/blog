@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Looking for Inspiration
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_inspiration%402x.jpg
+date: 2014-01-05 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_inspiration%402x.jpg
 ---
 
 Very often people always ask me: how you always find cool things to share or where do you find inspiration? So I decided to write a quick post with some links that allow me to stay tuned and inspired.

@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Everybody is a Designer
-bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_everybodydesigner%402x.jpg
+date: 2013-04-17 00:00:00 Z
 published: false
-category: blog
+categories:
+- blog
+layout: post
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_everybodydesigner%402x.jpg
 ---
 
 There's no better time to be a designer. It's mainstream and people think that it's easy to join a startup and design the next big solution to the world. And some times it just becomes the next big problem to a niche.
