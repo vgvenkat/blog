@@ -4,7 +4,7 @@ title: "Venkat Ganesan"
 # Use absolute URL when not hosting on the root of server
 
 url: ""
-baseurl: "https://vgvenkat.com" 
+baseurl: "" 
 
 markdown: kramdown
 permalink: /writing/:title
